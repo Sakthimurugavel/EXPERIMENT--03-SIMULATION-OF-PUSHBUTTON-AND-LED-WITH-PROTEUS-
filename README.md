@@ -159,15 +159,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
+BUTTON OFF LED OFF CONDITION
+![out 1](https://github.com/Sakthimurugavel/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707246/860947a3-1228-4bb7-aa16-ec31c28d3004)
+BUTTON ON LED ON CONDITION
+![out 2](https://github.com/Sakthimurugavel/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707246/9998829c-24ed-4a14-92c2-67f81eb39dff)
+Proteus layout(Add pdf screen shot of circuit here)
+ ![lay](https://github.com/Sakthimurugavel/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707246/402f1e76-de94-4ed2-aa2f-113444d6155d)
 
-![output 1](https://github.com/Sakthimurugavel/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707246/3b430812-1661-48ee-8e23-78e9215118e2)
-
-
-![output 2](https://github.com/Sakthimurugavel/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707246/4cde3fa1-696c-44ed-a952-56ba987fc701)
-
-
-
- 
  
  
  
